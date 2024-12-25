@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71082882/120546653-c2fe5980-c40d-11eb-91b8-b29dcda41186.png" height="175px"/></a>
 
 <h1 align="center">Hey, This Is Sakshi Shruti</h1>
-<h3 align="center">I am Sakshi Shruti, an exuberant towards technology, and a self taught programmer. I'm looking forward to what lies ahead for me in the world of coding. Let's do it!</h3>
+<h3 align="center">I am Sakshi Shruti, an exuberant towards technology, and a self-taught programmer. I'm looking forward to what lies ahead for me in the world of technology. Let's do it!</h3>
 <br/>
 
 
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m a **Software Engineer** with a Bachelor's degree in **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **ServiceNow Platform**
 
 - 💬 Ask me about **anything, I would be glad to help✨**
 
 - 📫 How to reach me **isakshi243@gmail.com**
 
-- ⚡ Fun fact **I do random things on random occasion:)**
+- ⚡ TMI: **The food I cook may look good, but it only looks good :)**
   
 <br/>
 
