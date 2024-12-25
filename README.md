@@ -15,8 +15,6 @@
 - 💬 Ask me about **anything, I would be glad to help✨**
 
 - 📫 How to reach me **isakshi243@gmail.com**
-
-- ⚡ TMI: **The food I cook may look good, but it only looks good :)**
   
 <br/>
 
@@ -56,7 +54,6 @@
 <p align="left">
 
 <a href = "https://linkedin.com/in/sakshishruti"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/sakshishrutii"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
