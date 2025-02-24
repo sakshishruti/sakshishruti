@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71082882/120546653-c2fe5980-c40d-11eb-91b8-b29dcda41186.png" height="175px"/></a>
 
-<h1 align="center">Hey, This Is Sakshi Shruti</h1>
+<h1 align="center">Hey, This Is Sakshi Shrut</h1>
 <h3 align="center">I am Sakshi Shruti, an exuberant towards technology, and a self-taught programmer. I'm looking forward to what lies ahead for me in the world of technology. Let's do it!</h3>
 <br/>
 
